@@ -1,0 +1,16 @@
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\bin\Debug\netcoreapp3.1\Art Calculator.exe
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\bin\Debug\netcoreapp3.1\Art Calculator.deps.json
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\bin\Debug\netcoreapp3.1\Art Calculator.runtimeconfig.json
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\bin\Debug\netcoreapp3.1\Art Calculator.runtimeconfig.dev.json
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\bin\Debug\netcoreapp3.1\Art Calculator.dll
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\bin\Debug\netcoreapp3.1\Art Calculator.pdb
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.csprojAssemblyReference.cache
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art_Calculator.Form1.resources
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art_Calculator.Properties.Resources.resources
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.csproj.GenerateResource.cache
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.AssemblyInfoInputs.cache
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.AssemblyInfo.cs
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.csproj.CoreCompileInputs.cache
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.dll
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.pdb
+D:\My work\Personal\Code stuff\Art Calculator\Art Calculator\obj\Debug\netcoreapp3.1\Art Calculator.genruntimeconfig.cache

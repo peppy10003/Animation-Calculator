@@ -1,0 +1,16 @@
+Input:
+	Video length or Number of Frames (length) 90f
+	Frames done an hour (Average) 9fph
+
+	Frames done (FD) 30f
+	
+Output:
+	estimated time spent (second)
+	estimated time left (first)
+	estimated percentage done (last)
+
+Calculating:
+	length / Average = *Hours needed*
+	(length - FD) / Average = *Time left*
+	FD / Average = *Time done*
+	Length / FD = *Percentage*

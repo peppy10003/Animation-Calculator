@@ -1,0 +1,50 @@
+Animation Pain Calcualation:
+	Video Length = 4m 25s
+		4 x 60s = 240s
+		240s + 25s = 265s
+
+	Time/10s = 1h + 30m(?(1h for now))
+		1h = 60m
+		60 x 60s = 3 600s
+	3 600s/10s
+
+	265s / 10s = 26.5
+	26.5 x 3600s = 95 400s
+	95 400s / 60s = 1 590m
+	1 590m / 60m = 26.5h
+
+	0.5h x 60m = 30m
+	
+	Total Amount Of Time Needed: 26h 30m
+
+Calculationg How Much Left:
+	Amount Of Frames In The Song: 15 915f
+	Amount Of Frames I've Done: 5 200f
+		15 915 - 5 200 = 10 715f
+	No. Of Frames Left: 10 715f
+
+	10 715f / 15 915f = 0.6732 = 67.32%
+
+	95 400s x 0.6732 = 64 223.28s
+	64 223.28s / 60 = 1 070.388m
+	1 070.388m / 60 = 17.8398h
+	
+	0.8398h x 60m = 50.388m
+	0.388m x 60s = 23.28s
+	0.28 x 1000ms = 280ms
+
+	How Much Time Left: 17h 50m 23s 280ms
+
+Calcuating The Amount Of Time I've Done:
+	How Much Time Done (Rougth Version):26.5h - 17.8398h = 8.6602h
+
+	0.6602h x 60m = 39.612m
+	0.612 x 60s = 36.72s
+	0.72s x 1000ms = 720ms
+
+	How Much Time Done: 8h 39m 36s 720ms
+
+Comparison ;-;
+	Total Amount Of Time Needed: 26h 30m
+	How Much Time Left: 17h 50m 23s 280ms
+	How Much Time Done: 8h 39m 36s 720ms
